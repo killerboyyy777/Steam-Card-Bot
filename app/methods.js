@@ -2,21 +2,29 @@
 // Copyright notice:
 
 /*--------------------------------------------------------------------------------------------- 
-* Original work: Copyright (c) 2020-2023 Refloow All rights reserved.
+* Original work: Copyright (c) 2020-2024 Refloow All rights reserved.
 
 * Code origin: https://github.com/Refloow/Steam-Card-Bot-PRO
-* Developer name: Veljko Vuckovic
+* New Code origin: https://github.com/killerboyyy777/Steam-Card-Bot-PRO
 * Licensed under the MIT License. See LICENSE in the project root for license information.
 * Published License: https://github.com/Refloow/Steam-Card-Bot-PRO/master/LICENSE
 
 * Contact information:
-  Discord Support Server: https://discord.gg/D8WCtDD
-  Main developer steam: https://steamcommunity.com/id/MajokingGames/ 
 
-* Donations:
+  Fork Discord Support Server: discord.gg/MFQnYm2f2d
+  Fork Developer Steam: https://steamcommunity.com/id/klb777/
+  
+  Original Discord Support Server: https://discord.gg/D8WCtDD
+  Original Main developer steam: https://steamcommunity.com/id/MajokingGames/ 
+  Original Developer Mail: refloowlibrarycontact@gmail.com
+
+* Donations(Original Developer):
   Crypto: https://refloow.com/cdonate
   Steam: https://steamcommunity.com/tradeoffer/new/?partner=994828078&token=XEUdbqp6
-  
+
+* Donations(Fork Developer):
+  Crypto(XMR): 47PiRtJbaJRd6sSvipHG98DoY3krAxbCu4KvHSCnyNBSVM3L6Sbpk8x8Tcqkrc4vdsbhmBj12Yjcw9tJcJMA4nTNU2qavrE
+  Steam: https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz
  --------------------------------------------------------------------------------------------*/
 
  /* 
