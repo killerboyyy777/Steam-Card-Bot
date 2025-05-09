@@ -5,18 +5,27 @@
 * Original work: Copyright (c) 2020-2024 Refloow All rights reserved.
 
 * Code origin: https://github.com/Refloow/Steam-Card-Bot-PRO
+* New Code origin: https://github.com/killerboyyy777/Steam-Card-Bot-PRO
 * Developer name: Veljko Vuckovic
 * Licensed under the MIT License. See LICENSE in the project root for license information.
 * Published License: https://github.com/Refloow/Steam-Card-Bot-PRO/master/LICENSE
 
 * Contact information:
-  Discord Support Server: https://discord.gg/D8WCtDD
-  Main developer steam: https://steamcommunity.com/id/MajokingGames/ 
-  Mail: refloowlibrarycontact@gmail.com
 
-* Donations:
+  Fork Discord Support Server: discord.gg/MFQnYm2f2d
+  Fork Developer Steam: https://steamcommunity.com/id/klb777/
+  
+  Original Discord Support Server: https://discord.gg/D8WCtDD
+  Original Main developer steam: https://steamcommunity.com/id/MajokingGames/ 
+  Original Developer Mail: refloowlibrarycontact@gmail.com
+
+* Donations(Original Developer):
   Crypto: https://refloow.com/cdonate
   Steam: https://steamcommunity.com/tradeoffer/new/?partner=994828078&token=XEUdbqp6
+
+* Donations(Fork Developer):
+  Crypto(XMR): 47PiRtJbaJRd6sSvipHG98DoY3krAxbCu4KvHSCnyNBSVM3L6Sbpk8x8Tcqkrc4vdsbhmBj12Yjcw9tJcJMA4nTNU2qavrE
+  Steam: https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz
   
  --------------------------------------------------------------------------------------------*/
 
@@ -74,7 +83,7 @@ function initialize() {
 /////////////////////////////////////////////////////////////////////
 
 // COPYRIGHT NOTICE. DO NOT EDIT & REMOVE
-//  ONES AGAIN:
+//  ONCE AGAIN:
 
 //       Removing copyright notice & distributing, using or selling the software without
 // the original license and notice above is license agreement breach and its considered criminal offense.
@@ -82,7 +91,7 @@ function initialize() {
   console.log(`\n\n                    (((((((                `.cyan);
   console.log(`                 (((((((((((((((              `.cyan);
   console.log(`              ((((((((((((((((((((((.           `.cyan);
-  console.log(`          ((((((((((.        ((((((((((((       8888888b.          .d888888                              `.cyan);
+  console.log(`          ((((((((((.        ((((((((((((       8888888b.          .d888888      -Killerboy777 Fork      `.cyan);
   console.log(`        (((((((((    ,((((((    ((((((((((      888   Y88b        d88P" 888                              `.cyan);
   console.log(`        (((((((((((   ((((((((   (((((((((      888    888        888   888                              `.cyan);
   console.log(`        (((((((((((   (((((    /((((((((((      888   d88P .d88b. 888888888 .d88b.  .d88b. 888  888  888`.cyan);
@@ -100,8 +109,10 @@ function initialize() {
 console.log('        This software has been developed by Veljko Vuckovic at - Refloow and published for free at GitHub.org'.cyan);
 console.log('                           Code origin: https://github.com/Refloow/Steam-Card-Bot-PRO' .yellow);
 console.log('                        Original work: Copyright (c) 2020-2024 Refloow All rights reserved. ' .green);
-console.log('      Official version of the bot is FREE with security updates only! Due economic situation and lack of support\n         newer versions can be purchased on our official discord server: https://discord.gg/XZtwJ4WW6T');
-  console.log(
+console.log('                        Forked by killerboyyy777 on Github:https://github.com/killerboyyy777/Steam-Card-Bot-PRO. ' .green);
+console.log('     (Original) Official version of the bot is FREE with security updates only! Due economic situation and lack of support\n         newer versions can be purchased on our official discord server: https://discord.gg/XZtwJ4WW6T');
+console.log('   Or just use this FREE Fork and join our Community Discord discord.gg/MFQnYm2f2d. ' .green);
+console.log(	
     "                               ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n".red
   );
   console.log(
@@ -135,7 +146,7 @@ if(method.CheckData()) {
   call();
 }
 
-// Steam-Card-Bot-PRO built by Refloow (-MajokingGames)
+// Steam-Card-Bot-PRO built by Refloow (-MajokingGames) and forked and Improved by killerboy777
 
 // Starting app file
 try {
@@ -161,5 +172,8 @@ setTimeout(resume, config.STARTAWAIT);
 // Copyright notice:
 
 /* Original work: Copyright (c) 2020-2024 Refloow All rights reserved.
-  Code origin (Free GitHub publish): https://github.com/Refloow/Steam-Card-Bot-PRO*/
+  Original Code origin (Free GitHub publish): https://github.com/Refloow/Steam-Card-Bot-PRO
+  Forked by killerboy777 2025
+  Fork Code Origin: https://github.com/killerboyyy777/Steam-Card-Bot-PRO*/
+
 
