@@ -72,20 +72,20 @@ Project is made open source and **free for all.**<br>
 <hr>
 
 ### `Setup Guide`
-> **[Step By Step Setup Guide](https://github.com/Refloow/Steam-Card-Bot-PRO/wiki)**<br>
+> **[Step By Step Setup Guide](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/wiki)**<br>
 ### `Troubleshooting Guide`
 > **[List of common user made errors and how to solve them](https://refloow.com/Open-Source-Projects/troubleshooting)**<br>
 ### `Contributions`
-> **[Want to contribute? Read how](https://github.com/Refloow/Steam-Card-Bot-PRO/blob/master/.github/CONTRIBUTING.md)**<br>
+> **[Want to contribute? Read how](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/CONTRIBUTING.md)**<br>
 ### `Features`
-> **[See list of features](https://github.com/Refloow/Steam-Card-Bot-PRO/blob/master/.github/FEATURES.md)**<br>
-> **[See version changelogs](https://github.com/Refloow/Steam-Card-Bot-PRO/blob/master/.github/changelog.md)**<br>
+> **[See list of features](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/FEATURES.md)**<br>
+> **[See version changelogs](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/changelog.md)**<br>
 ### `Policies & Agreements`
-> **[User Agreement](https://github.com/Refloow/Steam-Card-Bot-PRO/blob/master/.github/USER_AGREEMENT.md)**<br>
-> **[Security Policy](https://github.com/Refloow/Steam-Card-Bot-PRO/security/policy)**<br>
-> **[Privacy Policy](https://github.com/Refloow/Steam-Card-Bot-PRO/blob/master/.github/PRIVACY.md)**<br>
+> **[User Agreement](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/USER_AGREEMENT.md)**<br>
+> **[Security Policy](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/security/policy)**<br>
+> **[Privacy Policy](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/PRIVACY.md)**<br>
 ### `FAQ`
-> **[Frequently Asked Questions](https://github.com/Refloow/Steam-Card-Bot-PRO/wiki/FAQ---Frequently-Asked-Questions)**<br>
+> **[Frequently Asked Questions](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/wiki/FAQ---Frequently-Asked-Questions)**<br>
 <hr>
 
 # DISCORD Support Server
@@ -103,11 +103,11 @@ https://linktr.ee/killerboy777
 
 **We are accepting donations:**
 
-Crypto(XMR):
+Crypto(XMR) :
   
 47PiRtJbaJRd6sSvipHG98DoY3krAxbCu4KvHSCnyNBSVM3L6Sbpk8x8Tcqkrc4vdsbhmBj12Yjcw9tJcJMA4nTNU2qavrE
    
-Steam:
+Steam :
 
 https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz
 
@@ -115,7 +115,10 @@ https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz
 
 # Want Improvements ?
 
-If you have some private requests feel free to contact the main dev : https://steamcommunity.com/id/klb777<br>
+If you have some private requests feel free to contact the main dev :
+
+https://steamcommunity.com/id/klb777<br>
+
 If i am Currently to lazy to add the Requested Feature you might be able to convince me with a Donation
 
 **Note that we wont add any platform breaking TOS Modifications to any of our existing or requested projects**
