@@ -3,28 +3,29 @@ module.exports = {
 // Copyright notice:
 
 /* Original work: Copyright (c) 2020-2023 Refloow All rights reserved.
-  Code origin (Free GitHub publish): https://github.com/Refloow/Steam-Card-Bot-PRO*/
-	
+ Code origin (Free GitHub publish): https://github.com/Refloow/Steam-Card-Bot-PRO 
+Forked by killerboy777 2025 
+ Fork can be found at https://github.com/killerboyyy777/Steam-Card-Bot-PRO */
 	    
 /*
 
 Want active support and new updates with new features all for free?
 
-Leave an star on github repo its free ( we push updates based on the engagement )
-Repo link: https://github.com/Refloow/Steam-Card-Bot-PRO
+Leave an star on github repo its free 
+Repo link: https://github.com/killerboyyy777/Steam-Card-Bot-PRO
 
-  Discord Support Server: https://discord.gg/D8WCtDD     (Open an ticket)
+  Discord Support Server: discord.gg/MFQnYm2f2d
 
 */
 	
 
 /* 
   Here is contact info: refloowlibrarycontact@gmail.com
-  main dev steam: https://steamcommunity.com/id/MajokingGames/
+  Fork dev steam: https://steamcommunity.com/id/klb777/
   
 * Donations:
-  Crypto: https://refloow.com/cdonate
-  Steam: https://steamcommunity.com/tradeoffer/new/?partner=994828078&token=XEUdbqp6
+  Crypto(XMR): 47PiRtJbaJRd6sSvipHG98DoY3krAxbCu4KvHSCnyNBSVM3L6Sbpk8x8Tcqkrc4vdsbhmBj12Yjcw9tJcJMA4nTNU2qavrE
+  Steam: https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz
 
  */
 
@@ -177,7 +178,7 @@ Repo link: https://github.com/Refloow/Steam-Card-Bot-PRO
 
 // ----------------------------SIMPLE BUY (!buy, !buyany, !buyone commands)
 
-    buy_enable: false,                          // [ture/false] Enable or disable | !buy command         (// This command when called sell sets for keys (main currecy that you set default is cs go keys) following current bot rate)
+    buy_enable: false,                          // [true/false] Enable or disable | !buy command         (// This command when called sell sets for keys (main currecy that you set default is cs go keys) following current bot rate)
     buyany_enable: false,                       // [true/false] Enable or disable | !buyany command      (// This command when called sell any sets for keys to user without checking badges) 
     buyone_enable: false,                       // [true/false] Enable or disable | !buyone command      (// This command when called sell sets for keys but (gives user 1 set from each game that he hasnt crafted) - For badge collectors
 	
@@ -189,30 +190,30 @@ Repo link: https://github.com/Refloow/Steam-Card-Bot-PRO
  /*2*/  buyhydra_enable: true,                   // [true/false] Enable or disable | !buyhydra command    (// This command when called sell sets for user hydra keys)
  /*3*/  buycsgo_enable: true,                    // [true/false] Enable or disable | !buycsgo command     (// This command when called sell sets to user for csgo keys)
  /*4*/  buytf2_enable: true,                     // [true/false] Enable or disable | !buytf2 command      (// This command when called sell sets to user for tf2 keys)
- /*5*/  buygems_enable: true,                    // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*6*/  buypubg_enable: false,                   // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
-		buygemsforkey_enable: false,
+ /*5*/  buygems_enable: true,                    // [true/false] Enable or disable | !buygems command      (// This command when called sell sets to user for gems)
+ /*6*/  buypubg_enable: false,                   // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+	buygemsforkey_enable: false,		// -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
 
 // ----------------------------CURRENCYS BUY ONE (!buyoneref, !buyonehydra, !buyonecsgo, !buyonetf2, !buyonegems, !buyonepubg)
 
  
- /*1*/  buyoneref_enable: false,                  // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*2*/  buyonehydra_enable: false,                // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*3*/  buyonecsgo_enable: false,                 // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*4*/  buyonetf2_enable: false,                  // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*5*/  buyonegems_enable: false,                 // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*6*/  buyonepubg_enable: false,                 // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
+ /*1*/  buyoneref_enable: false,                  // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+ /*2*/  buyonehydra_enable: false,                // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+ /*3*/  buyonecsgo_enable: false,                 // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+ /*4*/  buyonetf2_enable: false,                  // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+ /*5*/  buyonegems_enable: false,                 // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+ /*6*/  buyonepubg_enable: false,                 // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
 
 
 // ----------------------------CURRENCYS BUY ANY (!buyanyref, !buyanyhydra, !buyanycsgo, !buyanytf2, !buyanygems, !buyanypubg)
 
  
- /*1*/  buyanyref_enable: false,                  // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*2*/  buyanyhydra_enable: false,                // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*3*/  buyanycsgo_enable: false,                 // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*4*/  buyanytf2_enable: false,                  // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*5*/  buyanygems_enable: false,                 // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*6*/  buyanypubg_enable: false,                 // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
+ /*1*/  buyanyref_enable: false,                  // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+ /*2*/  buyanyhydra_enable: false,                // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+ /*3*/  buyanycsgo_enable: false,                 // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+ /*4*/  buyanytf2_enable: false,                  // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+ /*5*/  buyanygems_enable: false,                 // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+ /*6*/  buyanypubg_enable: false,                 // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
 		
 //-----------------------------------------------------------------------------------------------------------------------------------//
 
@@ -226,13 +227,13 @@ Repo link: https://github.com/Refloow/Steam-Card-Bot-PRO
 
 // ----------------------------SIMPLE CURRENCYS (!sellref, !sellhydra, !sellcsgo, !selltf2, !sellgems, !sellpubg)
 
- /*1*/  sellref_enable: false,                   // -comming in next update (Leave it on false for !help and !commands to display working commands correctly)
+ /*1*/  sellref_enable: false,                   // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
  /*2*/  sellhydra_enable: true,                  // [true/false] Enable or disable | !sellhydra command   (// This command when called sell hydra cs go keys for sets to user)
  /*3*/  sellcsgo_enable: true,                   // [true/false] Enable or disable | !sellcsgo command    (// This command when called sell csgo keys for sets to user)
  /*4*/  selltf2_enable: true,                    // [true/false] Enable or disable | !selltf2 command     (// This command when called sell tf2 keys for sets to user)
- /*5*/  sellgems_enable: true,                   // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
- /*6*/  sellpubg_enable: false,                  // -coming in next update (Leave it on false for !help and !commands to display working commands correctly)
-	sellgemsforkey_enable:false,
+ /*5*/  sellgems_enable: true,                   // [true/false] Enable or disable | !selltf2 command     (// This command when called sell gems for sets to user)
+ /*6*/  sellpubg_enable: false,                  // -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
+	sellgemsforkey_enable:false,		// -coming in the future (Leave it on false for !help and !commands to display working commands correctly)
 
 //-------------------------------------------------------------------------------------------------------------------------------------//
 
@@ -260,7 +261,7 @@ Repo link: https://github.com/Refloow/Steam-Card-Bot-PRO
     bot_clearing_friend_list: true,         // [true/false] Enable or disable | bot removing inactive users for clearing friend list
     message_inactive_friend_removed: true,  // [true/false] Enable or disable | sending chat message to user that got removed after being inactive for too long.
     MAXHOURSADDED: 168,                     //  Time in hours before bot remove inactive user.
-    REMOVEDINACTIVE: 'Im cleaning my friendlist and removing inactive friends, please if you will use our service again re add me thanks.', // This message shows when user get cleared from friendlist.
+    REMOVEDINACTIVE: 'Im cleaning my friendlist and removing inactive friends, please if you want to use our service again re add me thanks.', // This message shows when user get cleared from friendlist.
 
     //-SETTINGS:  BOT ANTI SPAM PROTECTION (Removing user after spaming)
 
@@ -268,7 +269,7 @@ Repo link: https://github.com/Refloow/Steam-Card-Bot-PRO
     spam_remove_message_enable: true,       // [true/false] Enable or disable | sending chat message to user that got removed for spaming too many messages per sec.
     spam_admin_notification_enable: true,   // [true/false] Enable or disable | notifing admin with id of user who got remove for spaming
     MAXMSGPERSEC: 3,                        // The amount of messages users can send every second without getting removed. (Spam Protection)
-    SPAMREMOVEMESSAGE: `You Spammed and Stabbed The Devil In The Back. To Him, This Isn’t Vengeance; This Is Justice, You have been removed.`, // This is message that is shown to user when get removed from friends when he spams.
+    SPAMREMOVEMESSAGE: `You Spammed to much. You have been removed.`, // This is message that is shown to user when get removed from friends when he spams.
 
     //-SETTINGS:  BOT SAVING LOGS SETTINGS
 
