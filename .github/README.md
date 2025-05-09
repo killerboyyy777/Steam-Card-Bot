@@ -39,9 +39,13 @@
 
 # Note:
 This is a fork of https://github.com/Refloow/Steam-Card-Bot-PRO i decided to develop on my own, as the Original Project is not continued anymore
+
 (Developer is only selling a Version with more features Overpriced on his Discord.)
+
 I am planning to update the Project over time AND keep it free. 
+
 (Because i dont earn anything from this, Updates may come out more or less depending if I want to right now or not)
+
 
 Currently working on: Fixing Repo, changing all Links and Advertisements,... after the fork
 
