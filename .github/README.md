@@ -95,17 +95,28 @@ Project is made open source and **free for all.**<br>
 <hr>
 
 # Support the project
-- **If you like the project and the fact that is free you can support me by giving a donation or checking out my other Stuff on my Linktree.**
-- We are accepting donations:
+**If you like the project and the fact that is free you can support me by donating or checking out my other Stuff on my Linktree.**
 
-1. Crypto(XMR): 47PiRtJbaJRd6sSvipHG98DoY3krAxbCu4KvHSCnyNBSVM3L6Sbpk8x8Tcqkrc4vdsbhmBj12Yjcw9tJcJMA4nTNU2qavrE
-2. Steam: https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz
+Linktree:
+
+https://linktr.ee/killerboy777
+
+**We are accepting donations:**
+
+Crypto(XMR):
+  
+47PiRtJbaJRd6sSvipHG98DoY3krAxbCu4KvHSCnyNBSVM3L6Sbpk8x8Tcqkrc4vdsbhmBj12Yjcw9tJcJMA4nTNU2qavrE
+   
+Steam:
+
+https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz
 
 <hr>
 
 # Want Improvements ?
 
 If you have some private requests feel free to contact the main dev : https://steamcommunity.com/id/klb777<br>
+If i am Currently to lazy to add the Requested Feature you might be able to convince me with a Donation
 **Note that we wont add any platform breaking TOS Modifications to any of our existing or requested projects**
 
 
