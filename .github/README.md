@@ -47,7 +47,7 @@ I am planning to update the Project over time AND keep it free.
 (Because i dont earn anything from this, Updates may come out more or less depending if I want to right now or not)
 
 
-Currently working on: Fixing Repo, changing all Links and Advertisements,... after the fork
+**Currently working on: Fixing Repo, changing all Links and Advertisements,... after the fork**
 
 <hr>
 
