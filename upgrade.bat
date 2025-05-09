@@ -1,1 +1,1 @@
-explorer "https://github.com/Refloow/Steam-Card-Bot-ULTRA"
+explorer "https://github.com/killerboyyy777/Steam-Card-Bot-PRO"
