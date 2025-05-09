@@ -63,7 +63,7 @@ Repo link: https://github.com/killerboyyy777/Steam-Card-Bot-PRO
 
     // THIS IS MAIN CURRENC USED FOR !BUY AND !SELL COMMANDS
 
-    KEYSFROMGAME: 440, // 730 = CSGO, 440 = TF2
+    KEYSFROMGAME: 440, // 730 = CSGO, 440 = TF2 Fork Note: (somehow only cs keys are supported, need to fix,use !buytf command for tf2 keys)
 
     // Rate Settings
 
@@ -84,7 +84,7 @@ Repo link: https://github.com/killerboyyy777/Steam-Card-Bot-PRO
 		
     },
 	
-	GEMS:
+	GEMS: //Fork Note:ENTIRE SECTION NON FUNTIONAL YET BTW
 	{
 		
 		BUY1KEYFORAMOUNTOFGEMSCSGO : 15000, // For instance; if you set to 6000 , you sell 6000 gems for 1 CS:GO Key.
@@ -178,6 +178,8 @@ Repo link: https://github.com/killerboyyy777/Steam-Card-Bot-PRO
 
 // ----------------------------SIMPLE BUY (!buy, !buyany, !buyone commands)
 
+	//FORK NOTE: Those commands dont work in some settings, be save and only enable the Currency ones
+	
     buy_enable: false,                          // [true/false] Enable or disable | !buy command         (// This command when called sell sets for keys (main currecy that you set default is cs go keys) following current bot rate)
     buyany_enable: false,                       // [true/false] Enable or disable | !buyany command      (// This command when called sell any sets for keys to user without checking badges) 
     buyone_enable: false,                       // [true/false] Enable or disable | !buyone command      (// This command when called sell sets for keys but (gives user 1 set from each game that he hasnt crafted) - For badge collectors
@@ -282,18 +284,16 @@ Repo link: https://github.com/killerboyyy777/Steam-Card-Bot-PRO
 	If you use you are risking an 15 days hold
 	
 	In case you use comments after trade feature */
-	// Make sure that commends don't contain any words such as rep, reputation, cash, trading, etc.
-	/* steam is recently changing its policy and marks accounts that talk with certain trigger words as hijacked and community lock them for 15 days.
-	Make sure that in the commands that bot left isn't any words such as +rep, trusted, cash, trade, etc. */
+	//Using that feature can get you banned, so ur Choice if u use it, but it is possible
 	
-    // By default set to false (will be removed in next update)	
+    // By default set to false 	
     After_Trade_Comment_enable: false,       // [true/false] Enable or disable | posting coments after trade
     COMMENTAFTERTRADE: "Thanks for trading with our level up service!",
 
     //-SETTINGS: INVITING TO THE GROUP
 
     friend_group_inviting: true,            // [true/false] Enable or disable | Inviting user to the selected group on friend request
-    INVITETOGROUPID: "",                    // Invite users to this group Please Note this has to be the Steam 64 Invite Code
+    INVITETOGROUPID: "103582791474038795",                    // Invite users to this group Please Note this has to be the Steam 64 Invite Code
 
 
 
@@ -317,7 +317,7 @@ Repo link: https://github.com/killerboyyy777/Steam-Card-Bot-PRO
 
     // SETTINGS: AUTO DECLINING RANDOM GROUP INVITES
 
-    decline_random_group_inv: false,         // [true/false] Enable or disable | Auto declining all incoming random group invites.
+    decline_random_group_inv: true,         // [true/false] Enable or disable | Auto declining all incoming random group invites.
     accept_random_group_inv: false,         // [true/false] Enable or disable | Auto accepting all incoming random group invites.
 
 }
