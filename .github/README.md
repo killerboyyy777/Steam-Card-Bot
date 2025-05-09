@@ -1,5 +1,5 @@
 ### `Read this page before asking any questions`
-> **[Important Guides](https://github.com/Refloow/Steam-Card-Bot-PRO#important-links)**<br>
+> **[Important Guides](https://github.com/killerboyyy777/Steam-Card-Bot-PRO#important-links)**<br>
 
 <p align="center">
 <img width="264.6" height="154" src="https://i.imgur.com/PUCBfA6.png">
@@ -38,17 +38,23 @@
 
 
 # Note:
+This is a fork of https://github.com/Refloow/Steam-Card-Bot-PRO i decided to develop on my own, as the Original Project is not continued anymore
+(Developer is only selling a Version with more features Overpriced on his Discord.)
+I am planning to update the Project over time AND keep it free. 
+(Because i dont earn anything from this, Updates may come out more or less depending if I want to right now or not)
+
+Currently working on: Fixing Repo, changing all Links and Advertisements,... after the fork
 
 <hr>
 
-**To everyone who plan to sell our project by stating that they coded it or that they sell edited version.**<br>
+**To everyone who plans to sell this project by stating that they coded it or that they sell a edited version.**<br>
 **Project is licensed under the MIT license**<br>
 
 ### "`The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.`"<br>
 
 <br>
 
-This means that if you plan to sell our project to make quick buck please keep the copyright notice and copy of original license. <br>
+This means that if you plan to sell our project to make money please keep the copyright notice and copy of original license. <br>
 **In case of breaking licensing terms we may take legal charges against you.**
 
 Project is made open source and **free for all.**<br>
