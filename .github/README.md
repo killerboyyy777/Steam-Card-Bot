@@ -117,12 +117,11 @@ https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz
 
 If you have some private requests feel free to contact the main dev : https://steamcommunity.com/id/klb777<br>
 If i am Currently to lazy to add the Requested Feature you might be able to convince me with a Donation
+
 **Note that we wont add any platform breaking TOS Modifications to any of our existing or requested projects**
 
 
 <hr>
 
-# Stars over time 
 
-[![Stargazers over time](https://starchart.cc/killerboyyy777/Steam-Card-Bot-PRO.svg)](https://starchart.cc/killerboyyy777/Steam-Card-Bot-PRO)
 
