@@ -14,10 +14,12 @@ echo // Copyright notice:
 echo .
 echo /* Original work: Copyright (c) 2020-2023 Refloow All rights reserved.
 echo  Code origin (Free GitHub publish): https://github.com/Refloow/Steam-Card-Bot-PRO */
+echo  Forked by killerboy777 2025 
+echo Fork can be found at https://github.com/killerboyyy777/Steam-Card-Bot-PRO
 echo .
 echo .
-explorer "https://discord.gg/D8WCtDD"
+explorer "discord.gg/MFQnYm2f2d"
 echo Installing the required modules.
 npm install
-echo Modules finsished! You can close this window now.
+echo Modules finished! You can close this window now.
 pause
