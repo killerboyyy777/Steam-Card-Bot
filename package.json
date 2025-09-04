@@ -40,9 +40,9 @@
     "request": "2.88.2",
     "scb-diagnostics": "^1.0.1",
     "steam-totp": "^2.1.2",
-    "steam-tradeoffer-manager": "^2.11.4",
-    "steam-user": "5.0.4",
-    "steamcommunity": "^3.48.0",
+    "steam-tradeoffer-manager": "^2.12.1",
+    "steam-user": "5.2.3",
+    "steamcommunity": "^3.48.8",
     "steamid": "2.0.0",
     "winston": "3.3.3"
   },
