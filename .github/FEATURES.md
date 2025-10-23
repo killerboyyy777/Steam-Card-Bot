@@ -1,106 +1,97 @@
-<hr>
+# ✨ Project Features
 
-# Unique Features
+This document outlines the core functionality, commands, and automation features of the `Steam-Card-Bot-PRO` fork.
 
-<hr>
+## 🚀 Unique & Core Features
 
-* **Project is totally free with every feature and aspect.**
-* Endless customization
-  * Customization (Enable all features, commands by settings in config.js) <br><br>
-       **`TRUE = Enabled` <br>
-       `FALSE = Disabled`**
+* **Project is completely FREE** with every feature and aspect available.
+* **Endless Customization:** All features, commands, and options can be enabled or disabled via the `config.js` file.
+    > **TRUE** = Enabled
+    > **FALSE** = Disabled
+* Chat commands are **not case sensitive**.
+* Software provides readable and understandable developer console logs with detailed descriptions.
+* The console displays all incoming chat messages from all users.
 
-* Chat commands are not case sensitive
-* Software has readable and understandable dev console logs with detailed descriptions
-* View all chat messages from all users in console logs
+## 💰 Multi-Currency Support
 
-<hr>
+The bot is designed to handle trading with multiple Steam currencies:
 
-# Main Features
+* **CS:GO keys** - **❌ NO LONGER FUNCTIONAL (Steam Changes)**
+* **CS:GO Hydra Keys** - **❌ NO LONGER FUNCTIONAL (Steam Changes)**
+* TF2 Keys
+* **TF2 Refined Metal (Ref)**- **❌ Limited Functionality due to bad Coding Practices in the Original this is a Fork of**
+* Gems
 
-<hr>
+---
 
-* Multi Currency Support: <br><br>
-    * **CS:GO keys**,
-    * **CS:GO Hydra Keys**,
-    * **TF2 Keys**,
-    * **TF2 Ref Metal**,
-    * **Gems**
+# 🤖 Bot Command List
 
+### General Commands
+| Command | Description |
+| :--- | :--- |
+| `!owner` | Display the owner's Steam profile link. |
+| `!stats` | Get the current bot stock for all supported currencies. |
+| `!rate` / `!price` | Display the bot's current trading prices and rates. |
+| `!level [your dream level]` | Calculates the number of sets, keys, or gems required to reach your desired Steam level. |
+| `!check` | Shows available sets for you, the total bot set count, and the price in TF2 keys. |
+| `!check [amount]` | Shows how many sets and which level you will reach for a specified amount of any key. |
+| `!reminder on/off` | Toggles notifications whenever new card sets are added to the bot's inventory. |
 
-# <------------------------ General Commands ------------------------>
+### Buying Commands (Acquire Card Sets)
+| Command | Action | Note |
+| :--- | :--- | :--- |
+| `!buy [amount of keys]` | Use the main bot currency to buy card sets. | |**❌ NO LONGER FUNCTIONAL** |
+| `!buyonecheck [amount]` | Shows available sets from games you *do not* have a badge for (1 set max per game). | |**❌ NO LONGER FUNCTIONAL** |
+| `!buyany [amount of CS:GO keys]` | Buy any sets (including duplicates from already crafted badges) using CS:GO keys. | **❌ NO LONGER FUNCTIONAL** |
+| `!buyone [amount of CS:GO keys]` | Buy one set of each uncrafted game badge using CS:GO keys (badge collectors only). | **❌ NO LONGER FUNCTIONAL** |
+| `!buyref [amount of REF]` | Buy uncrafted sets using Refined Metal (REF). | |
+| `!buyhydra [amount of Hydra keys]` | Buy sets using your CS:GO Hydra key(s). | **❌ NO LONGER FUNCTIONAL** |
+| `!buycs [amount of CS:GO keys]` | Buy sets using your CS:GO key(s). | **❌ NO LONGER FUNCTIONAL** |
+| `!buytf [amount of TF keys]` | Buy sets using your TF key(s). | |
+| `!buygems [amount of sets]` | Buy sets using your Gems. | |
 
-* !owner - display owner profile
-* !stats - get current bot stock for all currencies
-* !rate - current bot prices
-* !price - current bot prices
-* !level [your dream level] - calculates how many sets and how many keys, gems it will cost to reach your desired level
-* !check - shows how many sets the bot has available for you and also total bot sets and price in TF2 key
-* !check [amount] - shows how many sets and which level you will reach for a specific amount of any keys
-* !reminder on/off - turning this on, you will receive notification whenever new sets are added
+### Selling Commands (Sell Card Sets)
+| Command | Action |
+| :--- | :--- |
+| `!sell [amount of keys]` | Sell your sets for the **BOT MAIN CURRENCY key(s)**. |**❌ NO LONGER FUNCTIONAL** |
+| `!sellhydra [amount of Hydra keys]` | Sell your sets for Hydra key(s). | **❌ NO LONGER FUNCTIONAL** |
+| `!sellcs [amount of CS:GO keys]` | Sell your sets for CS:GO key(s). | **❌ NO LONGER FUNCTIONAL** |
+| `!selltf [amount of TF keys]` | Sell your sets for TF key(s). | |
+| `!sellgems [amount of sets]` | Sell your sets for Gems. | |
 
-# <------------------------ Buying  Commands ------------------------>
+### Admin Commands (Bot Management)
+| Command | Action |
+| :--- | :--- |
+| `!block [steamID]` | Block a user with the given SteamID. |
+| `!usercheck [steamID]` | Check how many sets the bot has available for a specific user. |
+| `!withdraw` | Withdraw all TF2 keys from the bot. |
+| `!restart` / `!refresh` | Restarts/Refreshes the bot. |
+| `!exit` | Stops the bot and exits gracefully. |
+| `!pause[time]` | Pauses the bot for the specified duration (e.g., `!pause5m`, `!pause1h`). |
+| `!donatesets` | Allows sets to be donated to the bot's inventory. |
+| `!broadcastall` | Sends the following message to all users on the bot's friend list. |
+| `!broadcast` | Sends the following message only to users who have set `!reminder ON`. |
 
-* !buyonecheck [amount] - shows how many sets bot have from games that you dont have badge for (Counting only 1 set from each game)
-* !buyanycheck command unavailable
-* !buy [amount of keys] - use this to buy card sets with main bot currency which is set.
-* !buyany [amount of CS:GO keys] - use this to buy that amount of CS:GO keys for any sets, even from badges that has already been crafted, following the current bot rate
-* !buyone [amount of CS:GO keys] - only use this if you are a badge collector. The bot will send one set of each game, by the current bot rate
-* !buyref [amount of REF] - use this to buy sets you have not crafted yet for that amount of ref, following the current bot rate
-* !buyhydra [amount of CS:GO Hydra keys] - buy sets for your hydra key(s) 
-* !buycs [amount of CS:GO keys] - buy sets for your CS:GO key(s)
-* !buytf [amount of TF keys] - buy sets for your TF key(s)
-* !buygems [amount of sets] - buy sets with your gems
+---
 
-# <------------------------ Selling  Commands ------------------------>
+# ➕ Additional Automation Features
 
-* !sellcheck command - info about bot
-* !sell - [amount of keys] - sell your sets for BOT MAIN CURRENCY key(s)
-* !sellref - command unavailable
-* !sellhydra [amount of CS:GO Hydra keys] - sell your sets for Hydra key(s)  
-* !sellcs [amount of CS:GO keys] - sell your sets for CS:GO key(s)
-* !selltf [amount of TF keys] - sell your sets for TF key(s)
-* !sellgems [amount of sets] - sell your sets for gems
-
-# <------------------------- Admin Commands ----------------------->
-
-* !block [steamID] - Block user with given steamID
-* !usercheck [steamID] - Check how many sets bot has, for user with given steamID
-* !withdraw - withdraw all TF2 keys
-* !restart - restarts the bot
-* !exit - stops the bot and exits gracefully
-* !refresh - refreshes the bot
-* !pause5m - pauses bot for 5 min and then proceed with an restart
-* !pause10m - pauses bot for 10 min and then proceed with an restart
-* !pause1h - pauses bot for 1 hour and then proceed with an restart
-* !pause2h - pauses bot for 2 hours and then proceed with an restart
-* !donatesets - with this, you can donate sets to bot
-* !broadcastall - any message after this command will be sent to all users in bots's friendlist
-* !broadcast - only send message to users who have, done !reminder ON
-
-<hr>
-
-# Additional features 
-
-* Auto accepting friend request
-* Uppon accepting friend request sending an welcome message (Message can be set or disabled in config)
-* Uppon accepting friend request adding user to the selected group (Group can be set or inviting disabled inside of the config)
-* Checks for offline friend requests
-* Chat spam protection (can be disabled or enabled in config)
-* Uppon removing user sending him message (message can be set or disabled in config)
-* Notifing admin when user get removed for spaming -sending user id (user can get blocked via admin command !block) (notifications can be disabled in config)
-* Setting limit of messages per sec to count as spam
-* Bot clearing friendlist (feature can be disabled in config)
-* Sending message to the user which is removed (message can be set or disabled in config)
-* Setting timer for removing inactive users (time can be set at config)
-* CHAT LOGS
-    * Daily chat logs (can be disabled in config)
-    * Chat logs per user (can be disabled in config)
-
-* TRADE LOGS
-   * Saves logs of trades
-* Responding to incoming group invites (can be totaly disabled in config)
-
-* Auto declining incoming group invites
-* Auto accepting incoming group invites
-* Commenting after trade (comment can be set or commenting disabled in config)
+* **Friend Management:**
+    * Auto accepting friend requests.
+    * Optional welcome message upon accepting a request (configurable).
+    * Optional auto-grouping of new friends (configurable).
+    * Checks for offline friend requests.
+    * Bot clearing friendlist (configurable timer for removing inactive users).
+    * Optional message sent to users who are removed (configurable).
+* **Security & Anti-Spam:**
+    * Chat spam protection (toggleable in config).
+    * Setting customizable limit of messages per second to count as spam.
+    * Optional notification to the admin when a user is removed for spamming.
+* **Group Invites:**
+    * Responding to incoming group invites (toggleable).
+    * Options to auto decline or auto accept incoming group invites.
+* **Logging:**
+    * Daily chat logs (toggleable).
+    * Chat logs saved per user (toggleable).
+    * Saves comprehensive logs of all trades.
+* **Post-Trade:** Optional commenting after a successful trade (comment customizable).
