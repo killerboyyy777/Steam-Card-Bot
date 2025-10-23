@@ -1,15 +1,30 @@
-## 1. ERR_REQUIRE_ESM
 
-This error is caused in case of using bricked (old/outdated) version of node.js. <br>
-Sometimes there are backwards compatibility issues that are not project related rather due environtment changes.
-### Solution
-In case you are having this error troubleshoot it as following:
-1. [DEBUG] Check your node version (open command prompt and type node -v)<br>
-    In case version is v14 upgrade to stable v15.2.1 [Download here](https://nodejs.org/dist/v15.2.1/node-v15.2.1-x64.msi)
+## 1\. 🛑 ERR\_REQUIRE\_ESM: Module Compatibility Error
 
-2. [SOLUTION 1] After upgrading node restart your enviroment machine/server, download & install the script again with right version of node
+This error typically occurs due to module incompatibility when mixing older **CommonJS** (`require()`) with the modern **ES Module (ESM)** system. The primary cause is almost always running the bot on an **outdated or unsupported Node.js version** that cannot correctly handle the project's dependencies.
 
-1. [SOLUTION 2] Repair existing script on new node <br>
-    Delete node_modules folder including package.lock file<br>
-    This might cause other issues since package.lock contains instructions for script to install.<br>
-    Package.lock might change in case of running installation on non supported version of node so to avoid furthure errors replace existing with package.lock file from repository <br> run install.bat to install correctly.
+### ✅ Solution: Update Environment and Perform a Clean Install
+
+To resolve this, you must ensure you are running a stable, compatible Node.js version and rebuild the project dependencies cleanly.
+
+#### **Step 1: Check and Update Node.js Version**
+
+1.  **Check Version:** Open your command prompt (CMD, PowerShell, or Terminal) and type:
+    ```bash
+    node -v
+    ```
+2.  **Update:** Ensure you are using a **supported Node.js LTS (Long-Term Support) version** (e.g., v18 or v20).
+      * If your version is outdated, download and install the latest **LTS version** from the official [Node.js website](https://nodejs.org/en/download/).
+
+#### **Step 2: Force a Clean Reinstall**
+
+After upgrading Node.js, all project dependencies must be recompiled for the new environment.
+
+1.  **Delete:** Navigate to the main directory of your bot project and delete the following two items:
+      * The entire **`node_modules`** folder.
+      * The file **`package-lock.json`**.
+2.  **Reinstall:** Run the installation command again. This forces the system to correctly download and compile all dependencies for your newly updated Node.js environment.
+    ```bash
+    npm install
+    ```
+3.  **Start Bot:** Start the bot as usual. The error should now be resolved.
