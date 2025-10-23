@@ -1,30 +1,34 @@
 # Privacy Policy
 
-<b>OSL-Works</b> takes your privacy seriously.<br> 
-To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+**This project fork, maintained by killerboyyy777, takes your privacy seriously.**
 
+To better protect your privacy, we provide this notice explaining how your information is handled.
 
 ## Collection Of Information
 
-<b>We do not collect/share any of the sensitive information ("You", "The User") provide through use of our software - (Configurations and other sensitive data is stored locally within the app/software files) Please be aware that in case someone gets the files they will have all the credentials and we do not take responsibility in such cases. Make sure that your device is protected and not to share config details with people on the internet.</b>
+**We do not collect or share any sensitive information ("You," "The User") provided through the use of our software.**
 
-In case of project requiring an connection to an database connection details [ip] might be visible to us and the database host but <b> not collected or shared. </b>
+* Configurations and other sensitive data (e.g., Steam credentials) are stored **locally** within the application files on your device.
+* Please be aware that if someone gains access to these files, they will have access to all stored credentials. **We do not take responsibility in such cases.** Make sure that your device is protected and do not share your configuration details with anyone on the internet.
 
+In the event the project requires a connection to a database, connection details (such as your IP) might be visible to us and the database host but are **not collected or shared.**
 
 ## Security
 
-Read the [Security Policy](https://github.com/OSL-Works/Steam-Card-Bot-PRO/blob/master/.github/SECURITY.md)
+Please read the **[Security Policy](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/SECURITY.md)** for information regarding the safety of the software.
 
 ## Changes To This Privacy Policy
 
-This <b>Privacy Policy</b> is effective as of (12/28/2020) and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect <b> immediately after being posted on this page.</b>
-<b> [We] reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, We will notify the users through out the announcements. </b>
+This **Privacy Policy** is effective as of **October 2025** and will remain in effect except with respect to any future changes in its provisions, which will be effective **immediately after being posted on this page.**
+
+We reserve the right to update or change our Privacy Policy at any time, and you should check this Privacy Policy periodically. If we make any material changes, we will notify users through our announcement channels.
 
 ## Agreement
 
-<b>By using our software you agree with the terms and conditions stated above.</b>
-
+**By using our software, you agree to the terms and conditions stated above.**
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send us an email to [[refloowlibrarycontact@gmail.com]].
+For any questions or concerns regarding the privacy policy, please contact us through our primary communication channels:
+
+**Discord Support Server:** [https://discord.gg/MFQnYm2f2d](https://discord.gg/MFQnYm2f2d)
