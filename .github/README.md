@@ -1,128 +1,108 @@
-### `Read this page before asking any questions`
-> **[Important Guides](https://github.com/killerboyyy777/Steam-Card-Bot-PRO#important-links)**<br>
+# Steam-Card-Bot-PRO
+
+> ### `Read this page before asking any questions`
+> **[Important Guides](https://github.com/killerboyyy777/Steam-Card-Bot-PRO#important-links)**
 
 <p align="center">
-<img width="264.6" height="154" src="https://i.imgur.com/PUCBfA6.png">
+  <img width="264.6" height="154" src="https://i.imgur.com/PUCBfA6.png" alt="Steam Card Bot PRO Logo">
 </p>
 
-<br>
-
-<p align= "center">
+<p align="center">
   <img src="https://img.shields.io/github/package-json/v/killerboyyy777/Steam-Card-Bot-PRO.svg" alt="GitHub package version">
+  <a href="https://github.com/killerboyyy777/Steam-Card-Bot-PRO/network" target="_blank">
+    <img src="https://img.shields.io/github/forks/killerboyyy777/Steam-Card-Bot-PRO.svg?style=flat" alt="GitHub forks">
   </a>
-    <a href="https://github.com/Refloow/Steam-Card-Bot-PRO/network" target="_blank">
-  <img src="https://img.shields.io/github/forks/killerboyyy777/Steam-Card-Bot-PRO.svg?style=plastic" alt="GitHub forks">
+  <a href="https://github.com/killerboyyy777/Steam-Card-Bot-PRO/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/killerboyyy777/Steam-Card-Bot-PRO.svg?style=flat" alt="GitHub stars">
   </a>
-    <a href="https://github.com/Refloow/Steam-Card-Bot-PRO/stargazers" target="_blank">
-  <img src="https://img.shields.io/github/stars/killerboyyy777/Steam-Card-Bot-PRO.svg?style=plastic" alt="GitHub stars">
+  <a href="https://raw.githubusercontent.com/killerboyyy777/Steam-Card-Bot-PRO/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="GitHub license">
   </a>
-    <a href="https://raw.githubusercontent.com/killerboyyy777/Steam-Card-Bot-PRO/master/LICENSE">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=plastic" alt="GitHub license">
-  </a>
-    <a href="https://en.wikipedia.org/wiki/Node.js" target="_blank">
+  <br>
   <img src="https://img.shields.io/badge/Uses-Node.js-green" alt="Language">
-  </a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
   <img src="https://img.shields.io/badge/language-JavaScript-yellow.svg" alt="Language">
-  </a>
-    <a href="https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz" target="_blank">
-  <img src="https://img.shields.io/badge/steam-donate-yellow.svg" alt="Steam">
-  </a>
-</p>
-
-<p align= "center">
-  <a href="https://linktr.ee/killerboy777" target="_blank">
-  <img src="https://img.shields.io/badge/-My%Linktree-red">
+  <a href="https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz" target="_blank">
+    <img src="https://img.shields.io/badge/steam-donate-yellow.svg" alt="Steam Donation">
   </a>
 </p>
 
+---
 
-# Note:
-This is a fork of https://github.com/Refloow/Steam-Card-Bot-PRO i decided to develop on my own, as the Original Project is not continued anymore
+# 🚀 Project Status & Commitment
 
-(Developer is only selling a Version with more features Overpriced on his Discord.)
+## A Fork Committed to Open Source
 
-I am planning to update the Project over time AND keep it free. 
+This project is an independently maintained **fork** of the original `Steam-Card-Bot-PRO` repository by Refloow.
 
-(Because i dont earn anything from this, Updates may come out more or less depending if I want to right now or not)
+We decided to continue development here because the original project is no longer actively maintained and the developer is only selling an "extended" version privately.
 
+Our commitment is to **update this project over time and keep it completely FREE and open source.**
 
-**Currently working on: Fixing Repo, changing all Links and Advertisements,... after the fork**
+### Transparency Note:
 
-<hr>
+* **Free Updates:** Updates will be prioritized based on platform necessity and my current free time, as I do not earn money from this project.
+* **Stability Warning:** The codebase is *not* a full rewrite. It is based on the original project and may contain legacy code, meaning it **may be unstable** in some areas. Use at your own risk.
+* **Current Focus:** Fixing repository links, advertisements, and ensuring full migration after the fork.
 
-**To everyone who plans to sell this project by stating that they coded it or that they sell a edited version.**<br>
-**Project is licensed under the MIT license**<br>
+---
 
-### "`The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.`"<br>
+# ⚖️ Licensing & Reselling Terms (MIT)
 
-<br>
+This project is licensed under the **MIT License**. We welcome the open-source spirit and the freedom provided by this license.
 
-This means that if you plan to sell our project to make money please keep the copyright notice and copy of original license. <br>
-**In case of breaking licensing terms we may take legal charges against you.**
+### MIT License Requirement:
+If you plan to use, modify, or resell this project—even a heavily edited version—you **MUST** follow the terms of the MIT License:
 
-Project is made open source and **free for all.**<br>
-**We cant prohibit reselling of our project but if you do please follow the licensing terms.**<br> 
+> ### "`The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.`"
 
-<br>
-<hr>
+This means you must retain the **original copyright notice** and a copy of the **license** in your version.
 
-# Important Links
+Project is made open source and **free for all**. While we cannot legally prohibit reselling, we **require** that you adhere to the licensing terms. Failure to comply may result in legal action.
 
-<hr>
+---
 
-### `Setup Guide`
-> **[Step By Step Setup Guide](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/wiki)**<br>
-### `Troubleshooting Guide`
-> **[List of common user made errors and how to solve them](https://refloow.com/Open-Source-Projects/troubleshooting)**<br>
-### `Contributions`
-> **[Want to contribute? Read how](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/CONTRIBUTING.md)**<br>
-### `Features`
-> **[See list of features](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/FEATURES.md)**<br>
-> **[See version changelogs](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/changelog.md)**<br>
-### `Policies & Agreements`
-> **[User Agreement](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/USER_AGREEMENT.md)**<br>
-> **[Security Policy](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/security/policy)**<br>
-> **[Privacy Policy](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/PRIVACY.md)**<br>
-### `FAQ`
-> **[Frequently Asked Questions](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/wiki/FAQ---Frequently-Asked-Questions)**<br>
-<hr>
+# 📚 Important Guides & Policies
 
-# DISCORD Support Server
+### Setup & Troubleshooting
+* **Setup Guide:** [Step By Step Setup Guide](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/wiki)
+* **Troubleshooting:** [List of common user made errors and how to solve them](https://refloow.com/Open-Source-Projects/troubleshooting)
+* **Contributions:** [Want to contribute? Read how](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/CONTRIBUTING.md)
 
-**discord.gg/MFQnYm2f2d**
+### Project Information
+* **Features:** [See list of features](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/FEATURES.md)
+* **Changelogs:** [See version changelogs](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/changelog.md)
 
-<hr>
+### Policies & Agreements
+* **User Agreement:** [Read the Agreement](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/USER_AGREEMENT.md)
+* **Security Policy:** [Read the Policy](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/security/policy)
+* **Privacy Policy:** [Read the Policy](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/PRIVACY.md)
+* **FAQ:** [Frequently Asked Questions](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/wiki/FAQ---Frequently-Asked-Questions)
 
-# Support the project
-**If you like the project and the fact that is free you can support me by donating or checking out my other Stuff on my Linktree.**
+---
 
-Linktree:
+# 💬 Community, Support & Contact
 
-https://linktr.ee/killerboy777
+## Discord Support Server
+Get quick help, discuss rates, and report bugs in our community hub:
 
-**We are accepting donations:**
+**[discord.gg/MFQnYm2f2d](https://discord.gg/MFQnYm2f2d)**
 
-Crypto(XMR) :
-  
-47PiRtJbaJRd6sSvipHG98DoY3krAxbCu4KvHSCnyNBSVM3L6Sbpk8x8Tcqkrc4vdsbhmBj12Yjcw9tJcJMA4nTNU2qavrE
-   
-Steam :
+## Support the Project
+If you like the project and the fact that it remains free, you can support my maintenance efforts by donating or checking out my other projects.
 
-https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz
+* **My Linktree:**
+    [https://linktr.ee/killerboy777](https://linktr.ee/killerboy777)
 
-<hr>
+* **Donations Accepted (Crypto/Steam):**
+    * **Crypto (XMR):** `47PiRtJbaJRd6sSvipHG98DoY3krAxbCu4KvHSCnyNBSVM3L6Sbpk8x8Tcqkrc4vdsbhmBj12Yjcw9tJcJMA4nTNU2qavrE`
+    * **Steam Trade:** [Send a Trade Offer](https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz)
 
-# Want Improvements ?
+## Private Requests & Contact
+For private feature requests or inquiries, feel free to contact the main developer:
 
-If you have some private requests feel free to contact the main dev :
+* [https://steamcommunity.com/id/klb777](https://steamcommunity.com/id/klb777)
 
-https://steamcommunity.com/id/klb777<br>
-
-If i am Currently to lazy to add the Requested Feature you might be able to convince me with a Donation
-
-**Note that we wont add any platform breaking TOS Modifications to any of our existing or requested projects**
-
+***Note:** If I am currently too busy to add the requested feature, a donation may help convince me. We will NOT add any modifications that break platform TOS to any of our projects.*
 
 <hr>
 
