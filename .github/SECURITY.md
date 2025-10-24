@@ -47,4 +47,4 @@ To report a potential security issue or vulnerability, please take one of the fo
 
 ## Reporting a Vulnerability
 
-To report an issue or vulnerability make sure to open an issue here on github or create an ticket on discord server explaining the problem.
+To report an issue or vulnerability make sure to open an issue here on github or ask for help on the discord server explaining the problem.
