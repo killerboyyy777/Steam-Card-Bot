@@ -79,7 +79,6 @@ This project is made open source and **free for all**. We cannot prohibit the re
 > **[Want to contribute? Read how](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/CONTRIBUTING.md)**<br>
 ### `Features`
 > **[See list of features](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/FEATURES.md)**<br>
-> **[See version changelogs](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/changelog.md)**<br>
 ### `Policies & Agreements`
 > **[User Agreement](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/USER_AGREEMENT.md)**<br>
 > **[Security Policy](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/security/policy)**<br>
