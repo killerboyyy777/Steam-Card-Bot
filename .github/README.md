@@ -75,8 +75,6 @@ This project is made open source and **free for all**. We cannot prohibit the re
 
 ### `Setup Guide`
 > **[Step By Step Setup Guide](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/wiki)**<br>
-### `Troubleshooting Guide`
-> **[List of common user made errors and how to solve them](https://refloow.com/Open-Source-Projects/troubleshooting)**<br>
 ### `Contributions`
 > **[Want to contribute? Read how](https://github.com/killerboyyy777/Steam-Card-Bot-PRO/blob/master/.github/CONTRIBUTING.md)**<br>
 ### `Features`
